@@ -11,6 +11,6 @@ public class HolomanConfiguration {
     Holoman holoman = new Holoman();
     holoman.setHowLong(5);
     holoman.setName("Byungjun");
-    return holoman; 
+    return holoman;
   }
 }

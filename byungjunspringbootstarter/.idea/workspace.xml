@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="694244de-871f-440e-8836-fea05dc781ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../byungjun-spring-boot-starter/src/main/java/me/byungjun/Holoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../byungjun-spring-boot-starter/src/main/java/me/byungjun/HolomanConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../byungjun-spring-boot-starter/src/main/resources/META-INF/spring.factories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/byungjun/Holoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/byungjun/HolomanConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/spring.factories" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-getting-started/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-getting-started/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-getting-started/src/main/java/me/whiteship/springbootgettingstarted/SpringBootGettingStartedApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-getting-started/src/main/java/me/whiteship/springbootgettingstarted/SpringBootGettingStartedApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../byungjun-spring-boot-starter/src/main/java/me/byungjun/HolomanConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../byungjun-spring-boot-starter/src/main/java/me/byungjun/HolomanConfiguration.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -126,8 +119,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-34" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="983" />
@@ -183,6 +176,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -223,8 +217,7 @@
     <option name="totallyTimeSpent" value="1686000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="1920" height="983" extended-state="6" />
-    <editor active="true" />
+    <frame x="1" y="23" width="1920" height="983" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -241,7 +234,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32996634" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32996634" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
