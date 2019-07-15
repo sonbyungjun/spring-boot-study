@@ -19,7 +19,7 @@ public class Application {
   }
 
   // http 요청도 받을수 있다.
-  
+
 //  @Bean
 //  public ServletWebServerFactory serverFactory() {
 //    TomcatServletWebServerFactory tomcat = new TomcatServletWebServerFactory();
