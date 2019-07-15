@@ -18,4 +18,21 @@ public class Application {
     SpringApplication.run(Application.class, args);
   }
 
+  // http 요청도 받을수 있다.
+  
+//  @Bean
+//  public ServletWebServerFactory serverFactory() {
+//    TomcatServletWebServerFactory tomcat = new TomcatServletWebServerFactory();
+//    tomcat.addAdditionalTomcatConnectors(createStandardConnector());
+//    return tomcat;
+//  }
+//
+//  private Connector createStandardConnector() {
+//    Connector connector = new Connector("org.apache.coyote.http11.Http11NioProtocol");
+//    connector.setPort(8080);
+//    return connector;
+//  }
+
+
+
 }
